@@ -1,0 +1,19 @@
+Learn C#
+ How to favor composition over inheritance
+ Boxing and unboxing
+ Interfaces for testabliity
+ Interfaces for extensablity
+ Generics
+ Delegates
+ Lambda
+ Extension methods
+ LinQ
+ Nullable Types
+ Dynamic
+ Exception Handling
+ Async programming
+
+Practice OOP
+
+Practice clean code
+
